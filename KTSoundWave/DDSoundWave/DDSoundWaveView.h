@@ -12,5 +12,5 @@
  绘制波浪特效视图
  */
 @interface DDSoundWaveView : UIView
-
+- (void)displayWave:(double)value;
 @end

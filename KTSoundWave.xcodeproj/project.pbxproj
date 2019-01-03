@@ -17,6 +17,7 @@
 		451E041E21DC585600CCCB5C /* KTSoundWaveUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 451E041D21DC585600CCCB5C /* KTSoundWaveUITests.m */; };
 		451E042D21DC587900CCCB5C /* UIView+LayoutMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = 451E042C21DC587900CCCB5C /* UIView+LayoutMethods.m */; };
 		451E043121DC58DC00CCCB5C /* DDSoundWaveView.m in Sources */ = {isa = PBXBuildFile; fileRef = 451E043021DC58DC00CCCB5C /* DDSoundWaveView.m */; };
+		451E043421DC5BF200CCCB5C /* AudioRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 451E043221DC5BF100CCCB5C /* AudioRecorder.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		451E042C21DC587900CCCB5C /* UIView+LayoutMethods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+LayoutMethods.m"; sourceTree = "<group>"; };
 		451E042F21DC58DC00CCCB5C /* DDSoundWaveView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDSoundWaveView.h; sourceTree = "<group>"; };
 		451E043021DC58DC00CCCB5C /* DDSoundWaveView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDSoundWaveView.m; sourceTree = "<group>"; };
+		451E043221DC5BF100CCCB5C /* AudioRecorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioRecorder.m; sourceTree = "<group>"; };
+		451E043321DC5BF100CCCB5C /* AudioRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioRecorder.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				451E042E21DC58DC00CCCB5C /* DDSoundWave */,
 				451E042B21DC587900CCCB5C /* UIView+LayoutMethods.h */,
 				451E042C21DC587900CCCB5C /* UIView+LayoutMethods.m */,
+				451E043321DC5BF100CCCB5C /* AudioRecorder.h */,
+				451E043221DC5BF100CCCB5C /* AudioRecorder.m */,
 				451E03F921DC585500CCCB5C /* AppDelegate.h */,
 				451E03FA21DC585500CCCB5C /* AppDelegate.m */,
 				451E03FC21DC585500CCCB5C /* ViewController.h */,
@@ -282,6 +287,7 @@
 			files = (
 				451E03FE21DC585500CCCB5C /* ViewController.m in Sources */,
 				451E043121DC58DC00CCCB5C /* DDSoundWaveView.m in Sources */,
+				451E043421DC5BF200CCCB5C /* AudioRecorder.m in Sources */,
 				451E040921DC585600CCCB5C /* main.m in Sources */,
 				451E03FB21DC585500CCCB5C /* AppDelegate.m in Sources */,
 				451E042D21DC587900CCCB5C /* UIView+LayoutMethods.m in Sources */,
