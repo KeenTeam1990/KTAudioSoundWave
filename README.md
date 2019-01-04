@@ -1,4 +1,4 @@
-# KTSoundWave
+# KTAudioSoundWave
 根据语音绘制波浪动画
 
 # 效果图
