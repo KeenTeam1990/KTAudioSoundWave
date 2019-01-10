@@ -18,7 +18,7 @@ _waveView = [[DDSoundWaveView alloc] init];
 return _waveView;
 }
 ```
-
+# 新手项目，多多包涵，谢谢！有相关问题可以在线留言或发邮件至Keen_Team@163.com，谢谢！
 # License
 The MIT License (MIT)
 
