@@ -1,8 +1,11 @@
 # KTAudioSoundWave
 
      KTAudioSoundWave-根据语音音贝绘制波浪动画
-
+     
 # 效果图
+
+| :--------------------------------------: |
+|                  项目效果图                   |
 
 ![](https://github.com/liuzhida33/DDSoundWave/blob/master/images/soundwave.gif)
 
