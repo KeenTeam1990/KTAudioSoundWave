@@ -36,7 +36,7 @@
 #pragma mark - AudioRecorderDelegate
 //音量
 - (void)audioRecorderDidVoiceChanged:(AudioRecorder *)recorder value:(double)value{
-    
+  
     [self.waveView displayWave:value];
 
 }
