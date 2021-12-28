@@ -1,6 +1,6 @@
 # KTAudioSoundWave
 
-     KTAudioSoundWave-根据语音音贝绘制波浪动画
+KTAudioSoundWave-根据语音音贝绘制波浪动画
      
 # 效果图
 
@@ -30,4 +30,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # License
 
 The MIT License (MIT)  Copyright (c) 2014 KEENTEAM
-
