@@ -5,7 +5,6 @@ KTAudioSoundWave-根据语音音贝绘制波浪动画
 # 效果图
 
 ![](https://github.com/liuzhida33/DDSoundWave/blob/master/images/soundwave.gif)
-
 ```
 [self.waveView setCt_size:CGSizeMake(SCREEN_WIDTH, 200)];
 [self.waveView centerXEqualToView:self.view];
